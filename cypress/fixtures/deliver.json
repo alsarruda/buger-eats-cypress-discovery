@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Andre Arruda",
+            "cpf": "01616682244",
+            "email": "als.arruda@gmail.com",
+            "whatsapp": "92111111177",
+            "address": {
+                "postalcode": "69060000",
+                "street": "Avenida André Araújo",
+                "number": "2075",
+                "details": "Torre Gama, ap 500",
+                "district": "Aleixo",
+                "city_state": "Manaus/AM"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_invalid":{
+        "name": "Andre Arruda",
+        "cpf": "016166822AA",
+        "email": "als.arruda@gmail.com",
+        "whatsapp": "92111111177",
+        "address": {
+            "postalcode": "69060000",
+            "street": "Avenida André Araújo",
+            "number": "2075",
+            "details": "Torre Gama, ap 500",
+            "district": "Aleixo",
+            "city_state": "Manaus/AM"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_invalid":{
+        "name": "Andre Arruda",
+        "cpf": "01616682244",
+        "email": "12345678t",
+        "whatsapp": "92111111177",
+        "address": {
+            "postalcode": "69060000",
+            "street": "Avenida André Araújo",
+            "number": "2075",
+            "details": "Torre Gama, ap 500",
+            "district": "Aleixo",
+            "city_state": "Manaus/AM"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
